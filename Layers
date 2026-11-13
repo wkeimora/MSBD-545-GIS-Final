@@ -1,0 +1,14 @@
+ Factors:
+o Income
+o food access/food deserts
+o healthcare availability
+o transportation accessibility
+o Education/Income
+Find reliable datasets depicting each layer/factor and add as rasters or vectors to you QGIS space. 
+Below are the links I used: 
+• https://map.transitnownash.org/
+• https://www.nashville.gov/departments/may
+or/economic-opportunity/cfgn
+• https://www.nashvillehealth.org/survey/data/
+• https://felt.com/explore/hospitals-clinics-
+davidson-county-tennessee
